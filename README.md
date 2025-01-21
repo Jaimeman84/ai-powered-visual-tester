@@ -23,7 +23,7 @@ Automated visual regression testing tool combining screenshot comparison with GP
 2. **Installation**
 ```bash
 git clone https://github.com/jaimeman84/ai-powered-visual-tester.git
-cd ai-powered-visual-testing
+cd ai-powered-visual-tester
 python -m venv venv
 
 # Activate virtual environment
